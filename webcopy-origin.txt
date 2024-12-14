@@ -1,0 +1,36 @@
+Uri: https://penalty.verxmin.ru/
+File Name: C:\Users\Użytkownik\Desktop\верстка\penalty.verxmin.ru\index.htm
+Content Type: text/html
+
+Uri: https://penalty.verxmin.ru/back.png
+File Name: C:\Users\Użytkownik\Desktop\верстка\penalty.verxmin.ru\back.png
+Content Type: image/png
+
+Uri: https://penalty.verxmin.ru/ball.png
+File Name: C:\Users\Użytkownik\Desktop\верстка\penalty.verxmin.ru\ball.png
+Content Type: image/png
+
+Uri: https://penalty.verxmin.ru/ballred.png
+File Name: C:\Users\Użytkownik\Desktop\верстка\penalty.verxmin.ru\ballred.png
+Content Type: image/png
+
+Uri: https://penalty.verxmin.ru/football.png
+File Name: C:\Users\Użytkownik\Desktop\верстка\penalty.verxmin.ru\football.png
+Content Type: image/png
+
+Uri: https://penalty.verxmin.ru/footfon.jfif
+File Name: C:\Users\Użytkownik\Desktop\верстка\penalty.verxmin.ru\footfon.jfif
+Content Type: image/jpeg
+
+Uri: https://penalty.verxmin.ru/intro.otf
+File Name: C:\Users\Użytkownik\Desktop\верстка\penalty.verxmin.ru\intro.otf
+Content Type: application/octet-stream
+
+Uri: https://penalty.verxmin.ru/logo.jpg
+File Name: C:\Users\Użytkownik\Desktop\верстка\penalty.verxmin.ru\logo.jpg
+Content Type: image/jpeg
+
+Uri: https://penalty.verxmin.ru/varana.png
+File Name: C:\Users\Użytkownik\Desktop\верстка\penalty.verxmin.ru\varana.png
+Content Type: image/png
+
